@@ -76,7 +76,7 @@ body {font-family: "Lato", sans-serif}
     <div class="w3-row w3-padding-32">
       <div class="w3-third">
         <p>Menuju graha</p>
-        <img src="maba" class="w3-round w3-margin-bottom" alt="Random Name" style="width:80%">
+        <img src="" class="w3-round w3-margin-bottom" alt="Random Name" style="width:80%">
       </div>
       <div class="w3-third">
         <p>Penyambutan </p>
